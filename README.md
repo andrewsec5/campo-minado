@@ -1,5 +1,5 @@
 # campo-minado-java
-![Java](https://img.shields.io/badge/Java-17-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+![Java](https://img.shields.io/badge/Java-17-blue)
 
 💣​**Campo Minado**
 
