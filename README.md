@@ -1,7 +1,4 @@
-# campo-minado-java
-![Java](https://img.shields.io/badge/Java-17-blue)
-
-💣​**Campo Minado**
+# 💣​**Campo Minado**
 
 Jogo tradicional de Campo Minado feito em Java.
 Permite ao usuário jogar através do terminal.
